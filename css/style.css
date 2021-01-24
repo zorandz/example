@@ -341,3 +341,15 @@ footer ul {
   flex: 1 1 40rem;
   justify-content: space-between;
 }
+
+input[type="text"],
+select {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+input[type="email"],
+select {
+  width: 100%;
+  box-sizing: border-box;
+}
